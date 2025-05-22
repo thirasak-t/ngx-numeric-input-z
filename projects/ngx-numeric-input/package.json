@@ -1,0 +1,14 @@
+{
+  "name": "ngx-numeric-input-z",
+  "version": "0.0.4",
+  "author": "Thirask Tatontong",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": ">=15.0.0",
+    "@angular/core": ">=15.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
